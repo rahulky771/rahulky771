@@ -10,6 +10,7 @@ class UserControllers extends Controller
     function getUser(){
         // return "code step by step";
         return view('user');
+        
     }
     function aboutUser(){
        return "Hello this is rahul kuamar"; 
